@@ -50,7 +50,7 @@
     "babel-cli": "^6.2.0",
     "babel-core": "^6.26.3",
     "babel-eslint": "^8.2.3",
-    "babel-loader": "^7.1.4",
+    "babel-loader": "^8.2.2",
     "babel-preset-env": "^1.7.0",
     "delay": "^3.0.0",
     "eslint": "^4.19.1",
