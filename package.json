@@ -68,7 +68,7 @@
     "pinst": "^2.1.4",
     "pkg-ok": "^2.0.0",
     "prettier": "^1.13.4",
-    "ramda": "^0.25.0",
+    "ramda": "^0.27.2",
     "regenerator-runtime": "^0.11.1",
     "rimraf": "^2.6.2",
     "sinon": "^4.5.0",
